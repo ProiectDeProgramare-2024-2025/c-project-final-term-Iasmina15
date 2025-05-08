@@ -1,0 +1,20 @@
+Pizza Place
+Margherita Pizza
+Pepperoni Pizza
+Veggie Pizza
+---
+Burger Joint
+Classic Burger
+Cheeseburger
+Veggie Burger
+---
+Pasta Corner
+Spaghetti Bolognese
+Penne Arrabbiata
+Fettuccine Alfredo
+---
+Salad Bar
+Caesar Salad
+Greek Salad
+Garden Salad
+---
